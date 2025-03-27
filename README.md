@@ -2,7 +2,10 @@
 
 A browser-based React app that logs detailed user activity events inside a styled terminal interface. This tool detects tab switches, focus/blur, inactivity, clipboard access, text selection, and keystrokes while the tab is active.
 
+[![Live Site](https://img.shields.io/badge/Live%20Site-Click%20Here-green?style=flat-square&logo=vercel)](https://tab-user-activity-monitor.vercel.app/)
+
 ![Screenshot_113](https://github.com/user-attachments/assets/644bdb0f-8b67-449e-8089-fff0c2909810)
+
 
 ---
 
